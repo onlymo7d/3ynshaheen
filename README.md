@@ -322,19 +322,6 @@ present and whether it can be associated with a tracked person.
 
 ------------------------------------------------------------------------
 
-## Limitations
-
-3YNSHAHEEN is a prototype/research project and should not be treated as
-a production security system. Detection can be affected by poor
-lighting, occlusion, long distances, small objects, unusual camera
-angles, motion blur, and environments different from the training data.
-
-AI detections and threat classifications can contain false positives and
-false negatives and should not be the sole basis for consequential
-security decisions.
-
-------------------------------------------------------------------------
-
 ## Project Goal
 
 The goal of 3YNSHAHEEN is not simply to draw bounding boxes. It
